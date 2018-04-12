@@ -1,0 +1,52 @@
+<resources>
+    <!--App name [CHAR LIMIT=35]-->
+    <string name="app_name">Marine Science Quiz</string>
+    <!--Title-->
+    <string name="marine_science">\ \ Marine Science: What do you know?</string>
+    <!--Question 1 and answers-->
+    <string name="question1">What percent of the planet earth\'s living space is ocean?</string>
+    <string name="q1a1">\ \ \ 75%</string>
+    <string name="q1a2">\ \ \ 50%</string>
+    <string name="q1a3">\ \ \ 80%</string>
+    <string name="q1a4">\ \ \ 99%</string>
+    <!--Question 2 and answers-->
+    <string name="question2">At what speed do penguins \"fly\" underwater?</string>
+    <string name="q2a1">\ \ \ 10 mph</string>
+    <string name="q2a2">\ \ \ 25 mph</string>
+    <string name="q2a3">\ \ \ 30 mph</string>
+    <string name="q2a4">\ \ \ 8 mph</string>
+    <!--Question 3 and answers-->
+    <string name="question3">Coral has been used for what medical purpose?</string>
+    <string name="q3a1">To replace bone grafts to heal human bones</string>
+    <string name="q3a2">Ingredients for medicines to strengthen bones</string>
+    <string name="q3a3">Ingredients for cat liter</string>
+    <string name="q3a4">Ingredients for cosmetics</string>
+    <!--Question 4 and answers-->
+    <string name="question4">In which ocean creature do the males give birth?</string>
+    <string name="q4a1">Manta Rays</string>
+    <string name="q4a2">Seahorses</string>
+    <string name="q4a3">Dolphins</string>
+    <string name="q4a4">Crabs</string>
+    <!--Question 5 and answers-->
+    <string name="question5">Which ocean creature does not have blood in there body and digest their food outside of their bodies?</string>
+    <string name="q5a1">Seahorses</string>
+    <string name="q5a2">Manta Rays</string>
+    <string name="q5a3">Starfish</string>
+    <string name="q5a4">Jellyfish</string>
+    <!--Question 6 and answers-->
+    <string name="question6">Which ocean creature has the ability to see ultraviolet and infrared light?</string>
+    <string name="q6a1">Starfish</string>
+    <string name="q6a2">Jellyfish</string>
+    <string name="q6a3">Electric Eel</string>
+    <string name="q6a4">Goldfish</string>
+    <!--createSummary-->
+    <string name="createSummary">Thank you for completing the Marine Science Quiz! The answers are:
+        \n 99% percent of the planet earth\'s living space is ocean! Depth and width is factored in to this calculation.
+        \n Penguins \"fly\" underwater at 25 mph! That is pretty fast!!
+        \n Coral has been used to replace bone grafts to heal human bones! Unbelievable!!
+        \n The seahorse males give birth, not the female! Fascinating!!
+        \n Starfish do not have blood in there body and digest their food outside of their bodies!
+        \n The goldfish has the ability to see ultraviolet and infrared light!
+        \n What an amazing world we live in! Please take care of it!</string>
+
+</resources>
